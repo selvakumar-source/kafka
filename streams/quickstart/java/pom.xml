@@ -33,4 +33,37 @@
     <artifactId>streams-quickstart-java</artifactId>
     <packaging>maven-archetype</packaging>
 
+
+
+    <dependencies>
+
+        <dependency>
+            <groupId>com.github.wumingsheng</groupId>
+            <artifactId>enter-common</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>org.webjars.npm</groupId>
+            <artifactId>ckeditor__ckeditor5-enter</artifactId>
+            <version>40.1.0</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>com.github.wumingsheng</groupId>
+            <artifactId>enter-common</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+
+    
+
+        <dependency>
+            <groupId>org.webjars.npm</groupId>
+            <artifactId>ckeditor__ckeditor5-enter</artifactId>
+            <version>40.1.0</version>
+        </dependency>
+
+    </dependencies>
 </project>
